@@ -10,4 +10,4 @@ Keras : !pip3 install keras
 
 ImageAI : !pip3 install imageai --upgrade
 
-Pretrained model download : https://drive.google.com/open?id=1lFrk_ipO4hCbAx4mcY0JILevtouTHEEK
+Pretrained model download : https://drive.google.com/file/d/1avRKkoF7PagdPYdgZr_fG3DhFYt_JEXv/view?usp=sharing
